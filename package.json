@@ -61,9 +61,9 @@
       "output": "release"
     },
     "publish": {
-      "provider": "github",
-      "owner": "YOUR_GITHUB_USERNAME",
-      "repo": "YOUR_GITHUB_REPO_NAME"
+  "provider": "github",
+  "owner": "kpawan44",
+  "repo": "stockflow-apex-desktop"
     },
     "win": {
       "target": ["nsis"],
